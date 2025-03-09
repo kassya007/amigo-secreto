@@ -45,7 +45,7 @@ Bem-vindo ao **Jogo do Amigo Secreto**! Este é um projeto divertido e interativ
 
 ## 🔗 Demonstração Online
 
-*(Se você hospedou o projeto, coloque o link aqui!)*
+(https://amigo-secreto-six-olive.vercel.app/)
 
 ## 📌 Contribuições
 
@@ -53,5 +53,5 @@ Sinta-se à vontade para contribuir! Caso tenha sugestões, abra uma **Issue** o
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Kassya Rayanny](https://github.com/seu-usuario)
 
