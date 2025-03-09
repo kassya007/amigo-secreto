@@ -19,8 +19,7 @@ Bem-vindo ao **Jogo do Amigo Secreto**! Este é um projeto divertido e interativ
 5️⃣ Compartilhe o resultado com os amigos!
 
 ## 📸 Capturas de Tela
-
-*(Adicione imagens do jogo aqui, se desejar!)*
+![alt text](image.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
